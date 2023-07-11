@@ -1,1 +1,31 @@
 mahmoud
+[33mcommit 723d66757536fd496e15e9eeb5405f11b4713101[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: mahmoudabughozah <moodghoz@gmail.com>
+Date:   Tue Jul 11 21:55:04 2023 +0300
+
+    add this
+
+ vendors.txt | 6 [32m++++++[m
+ 1 file changed, 6 insertions(+)
+
+[33mcommit c4c12d52b16599df9fd8bf0f6ecac0da7e854b8f[m
+Author: mahmoudabughozah <moodghoz@gmail.com>
+Date:   Sun Jul 9 17:13:44 2023 +0300
+
+    d
+
+ cap.txt     | 1 [32m+[m
+ vendors.txt | 0
+ 2 files changed, 1 insertion(+)
+
+[33mcommit 7dbbd496d81b24c986d3a13c41a135c9e3e7f556[m
+Author: mahmoudabughozah <moodghoz@gmail.com>
+Date:   Fri Jul 7 12:11:32 2023 +0300
+
+    first commit
+
+ README.md     | 1 [32m+[m
+ cap.txt       | 0
+ coconut.txt   | 0
+ green_tea.txt | 0
+ 4 files changed, 1 insertion(+)
